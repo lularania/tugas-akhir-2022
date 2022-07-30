@@ -1,0 +1,19 @@
+.navbar-expand {
+    position: fixed;
+    background-color: #183B67;
+}
+
+.nav-item.active {
+    background-color: #183B67;
+    border-radius: 0%;
+    height:100%;
+    width: 100%;
+}
+
+.nav-item.active p {
+    color: white;
+}
+
+.nav-item.active i {
+    color: white;
+}
